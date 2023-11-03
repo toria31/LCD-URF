@@ -1,4 +1,4 @@
-// made by toria31
+// made by toria
 #include <LiquidCrystal.h>
 
 LiquidCrystal lcd(1, 2, 4, 5, 6, 7); // creates an lcd object with parameters(rs, enable, d4, d5, d6, d7)

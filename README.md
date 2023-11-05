@@ -4,7 +4,7 @@ Ultrasonic rangefinder with LCD using Arduino Uno
 Required Hardware and Components
 --------------------------------
 - Arduino Uno
-- Ultrasonic Sensor
+- Ultrasonic Sensor HC-SR04
 - LCD 16x2
 - 10K Ohm Potentiometer 
 - Breadboard
@@ -12,7 +12,7 @@ Required Hardware and Components
 
 Connections
 -----------
-Ultrasonic:
+Ultrasonic Sensor:
   - VCC to 5V
   - GND to GND
   - Trig to Arduino Digital Pin 8 

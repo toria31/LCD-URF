@@ -22,13 +22,13 @@ LCD:
   - VSS to GND
   - VDD to 5V
   - VO to 10K Ohm Potentiometer Center Pin
-  - RS to Arduino digital pin 1
+  - RS to Arduino digital pin 12
   - RW to GND
-  - E to Arduino digital pin 2
-  - D4 to Arduino digital pin 4
-  - D5 to Arduino digital pin 5
-  - D6 to Arduino digital pin 6
-  - D7 to Arduino digital pin 7
+  - E to Arduino digital pin 11
+  - D4 to Arduino digital pin 5
+  - D5 to Arduino digital pin 4
+  - D6 to Arduino digital pin 3
+  - D7 to Arduino digital pin 2
   - A to 5V
   - K to GND
 

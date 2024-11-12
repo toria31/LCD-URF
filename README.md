@@ -39,6 +39,6 @@ Formula Explanation
   
 - S = distanceCm
 - T = duration
-- V = sound speed (0.034)
+- V = sound speed (340m/s) (0.034cm/µs)
 
 NOTE. We are dividing result because when the ultra sound reaches the object, it reflects back on the same distance and distnace value is doubled.

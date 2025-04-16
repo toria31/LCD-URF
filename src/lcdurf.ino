@@ -1,7 +1,8 @@
 // made by toria31
 #include <LiquidCrystal.h>
 
-LiquidCrystal lcd(1, 2, 4, 5, 6, 7); // creates an lcd object with parameters(rs, enable, d4, d5, d6, d7)
+const int rs = 12, en = 11, d4 = 5, d5 = 4, d6 = 3, d7 = 2;
+LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
 
 // define variables
 const int trigPin = 8;

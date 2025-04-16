@@ -1,4 +1,4 @@
-# LCDUltrasonicRangefinder
+# LCD-URF
 Ultrasonic rangefinder with LCD using Arduino Uno
 
 Required Hardware and Components
